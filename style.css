@@ -1,0 +1,151 @@
+.main{
+  width: 100%;
+  border: 5px solid black;
+  display: flex;
+  flex-direction: row;
+}
+.left{
+  width: 28%;
+  border: 2px solid grey;
+  margin: 3px 3px 3px 3px;
+  padding: 5px;
+  background-color: #666;
+}
+.left img{
+  border-radius: 50%;
+
+}
+.right{
+  width: 71%;
+  border: 2px solid grey;
+  margin: 3px;
+  padding: 5px;
+  background-color: #666;
+}
+h1{
+  color: #fff;
+}
+h5{
+  color: #fff;
+}
+h1:hover{
+  color: #000;
+}
+
+@media only screen and (max-width:480px){
+  .main{
+    width: 100%;
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  .left{
+    width: 100%;
+    border: 2px solid grey;
+    margin: 3px 3px 3px 3px;
+    padding: 5px;
+    background-color: #666;
+    text-align: center;
+  }
+  .left img{
+    border-radius: 50%;
+
+  }
+  .right{
+    width: 100%;
+    border: 2px solid grey;
+    margin: 3px;
+    padding: 5px;
+    background-color: #666;
+  }
+  h1{
+    color: #fff;
+  }
+  h5{
+    color: #fff;
+  }
+
+  h1:hover{
+    color: #000;
+  }
+
+}
+@media only screen and (min-width:481px) and (max-width:768px){
+  .main{
+    width: 100%;
+    border: 5px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .left{
+    width: 100%;
+    border: 2px solid grey;
+    margin: 3px 3px 3px 3px;
+    padding: 5px;
+    background-color: #666;
+    text-align: left;
+  }
+  .left img{
+    border-radius: 50%;
+
+  }
+  .right{
+    width: 100%;
+    border: 2px solid grey;
+    margin: 3px;
+    padding: 5px;
+    background-color: #666;
+  }
+  h1{
+    color: #fff;
+  }
+  h5{
+    color: #fff;
+  }
+
+  h1:hover{
+    color: #000;
+  }
+
+}
+@media only screen and (min-width:769px) and (max-width:1024px){
+  .main{
+    width: 100%;
+    border: 5px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .left{
+    width: 100%;
+    border: 2px solid grey;
+    margin: 3px 3px 3px 3px;
+    padding: 5px;
+    background-color: #666;
+    text-align: center;
+  }
+  .left img{
+    border-radius: 50%;
+
+  }
+  .right{
+    width: 100%;
+    border: 2px solid grey;
+    margin: 3px;
+    padding: 5px;
+    background-color: #666;
+  }
+  h1{
+    color: #fff;
+  }
+  h5{
+    color: #fff;
+  }
+
+  h1:hover{
+    color: #000;
+  }
+
+}
