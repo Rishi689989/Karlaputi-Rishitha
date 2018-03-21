@@ -1,0 +1,32 @@
+{
+  "basics":{
+    "photo":"image.jpg",
+    "name":"Rishitha",
+    "email":"rishi.krish55@gmail.com",
+    "mobileno":"9440069989"
+  },
+
+  "education":[
+    {
+    "course":"B.Tech (COMPUTER SCIENCE AND ENGINEERING)",
+    "college":
+    ["G PULLAIAH COLLEGE OF ENGINEERING AND TECHNOLOGY",
+      "2015-2019",
+      "70"]
+  },
+  {
+    "course":"Intermediate(MPC)",
+    "college":
+    ["SRI CHAITHANYA",
+      "2013-2015",
+      "90"]
+  },
+  {
+    "course":"SSC",
+    "college":
+    ["MONTESSORI",
+      "UNTIL 2013",
+      "8.7"]
+  }
+]
+}
