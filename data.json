@@ -5,28 +5,41 @@
     "email":"rishi.krish55@gmail.com",
     "mobileno":"9440069989"
   },
-
   "education":[
     {
-    "course":"B.Tech (COMPUTER SCIENCE AND ENGINEERING)",
+    "course":"B.Tech (Computer Science And Engineering)",
     "college":
-    ["G PULLAIAH COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    ["G Pullaiah College Of Engineering And Technology",
       "2015-2019",
       "70"]
   },
   {
     "course":"Intermediate(MPC)",
     "college":
-    ["SRI CHAITHANYA",
+    ["Sri Chaithanya",
       "2013-2015",
       "90"]
   },
   {
-    "course":"SSC",
+    "course":"SSC(English Medium)",
     "college":
-    ["MONTESSORI",
-      "UNTIL 2013",
+    ["Montessori High School",
+      "Until 2013",
       "8.7"]
   }
+],
+"skills":[
+  {
+  "name":"web technologies",
+  "value":"HTML,CSS"
+},
+{
+  "name":"opearting systems",
+  "value":"windows,linux"
+},
+{
+  "name":"programming languages",
+  "value":"c,c++,java"
+}
 ]
 }
